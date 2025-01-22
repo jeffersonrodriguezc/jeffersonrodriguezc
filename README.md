@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jefferson_Rodriguez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-rodriguez/)
 
--  I’m currently working at Appgate as a Data scientist
-- 🔬 I am looking forward to doing a PhD
+-  I’m currently a PhD Student at the University of Cagliari (PRALAB Research Group)
 - 🎒 I enjoy backpacking a lot
 
 [![Mlops Badge](https://img.shields.io/badge/-Mlops-007acc?style=for-the-badge&labelColor=black&logo=databricks&logoColor=007acc)](#) 
